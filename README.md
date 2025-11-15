@@ -1,3 +1,5 @@
+# sql_special_leetcode
+
 # 📘 Foundation SQL Scripts
 
 This repository contains a collection of foundational SQL scripts designed to support database setup, learning, and structured progression through essential SQL concepts. Each file builds on the previous one, creating a step-by-step approach to constructing tables, relationships, queries, and data operations.
